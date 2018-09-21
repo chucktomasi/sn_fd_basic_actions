@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_category">
+    <sys_hub_category action="INSERT_OR_UPDATE">
+        <name>System</name>
+        <order>500</order>
+        <sys_class_name>sys_hub_category</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-21 18:26:51</sys_created_on>
+        <sys_id>32a0e2370f6023007500cbdce1050e94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>System</sys_name>
+        <sys_package display_value="CT Utils Spoke" source="x_snc_ct_utils">e30e2c78db2ca30077386583ca961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CT Utils Spoke">e30e2c78db2ca30077386583ca961990</sys_scope>
+        <sys_update_name>sys_hub_category_32a0e2370f6023007500cbdce1050e94</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-21 18:26:51</sys_updated_on>
+    </sys_hub_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=32a0e2370f6023007500cbdce1050e94"/>
+</record_update>

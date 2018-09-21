@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category display_value="Mathematics">25b992ff0f2023007500cbdce1050e50</category>
+        <copied_from>4a5e28b8db2ca30077386583ca961944</copied_from>
+        <copied_from_name>Simple Decimal Math</copied_from_name>
+        <description/>
+        <internal_name>simple_integer_math</internal_name>
+        <label_cache>[{"name":"{{action.number_1}}","label":"action➛Number 1","type":"action","ref":""},{"name":"{{action.operation}}","label":"action➛Operation","type":"action","ref":""},{"name":"{{action.number_2}}","label":"action➛Number 2","type":"action","ref":""},{"name":"{{step[af9f64aa-b3a8-475c-8252-7e6839325cc6].r}}","label":"step➛Script step➛r","type":"step","ref":""},{"name":"{{step[af9f64aa-b3a8-475c-8252-7e6839325cc6].re}}","label":"step➛Script step➛re","type":"step","ref":""},{"name":"{{step[af9f64aa-b3a8-475c-8252-7e6839325cc6].res}}","label":"step➛Script step➛res","type":"step","ref":""},{"name":"{{step[af9f64aa-b3a8-475c-8252-7e6839325cc6].resu}}","label":"step➛Script step➛resu","type":"step","ref":""},{"name":"{{step[af9f64aa-b3a8-475c-8252-7e6839325cc6].resul}}","label":"step➛Script step➛resul","type":"step","ref":""},{"name":"{{step[af9f64aa-b3a8-475c-8252-7e6839325cc6].result}}","label":"step➛Script step➛result","type":"step","ref":""}]</label_cache>
+        <latest_snapshot>ab4cd2730f6023007500cbdce1050e24</latest_snapshot>
+        <master_snapshot>fb4cd2730f6023007500cbdce1050e67</master_snapshot>
+        <name>Simple Integer Math</name>
+        <outputs/>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-21 17:59:35</sys_created_on>
+        <sys_id>097adaff0f2023007500cbdce1050e8b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Simple Integer Math</sys_name>
+        <sys_package display_value="CT Utils Spoke" source="x_snc_ct_utils">e30e2c78db2ca30077386583ca961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CT Utils Spoke">e30e2c78db2ca30077386583ca961990</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_097adaff0f2023007500cbdce1050e8b</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-21 18:07:43</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=097adaff0f2023007500cbdce1050e8b"/>
+    <sys_variable_value action="delete_multiple" query="document_key=097adaff0f2023007500cbdce1050e8b"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_type_definition</document>
+        <document_key>097adaff0f2023007500cbdce1050e8b</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-21 18:00:35</sys_created_on>
+        <sys_id>f7aadeff0f2023007500cbdce1050e4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-21 18:00:35</sys_updated_on>
+        <value/>
+        <variable display_value="">77aadeff0f2023007500cbdce1050e43</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=097adaff0f2023007500cbdce1050e8b"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>answer</field>
+        <id>097adaff0f2023007500cbdce1050e8b</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-21 17:59:37</sys_created_on>
+        <sys_id>e97a1eff0f2023007500cbdce1050e20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-21 17:59:37</sys_updated_on>
+        <table>var__m_sys_hub_action_output_097adaff0f2023007500cbdce1050e8b</table>
+        <value>{{step[af9f64aa-b3a8-475c-8252-7e6839325cc6].result}}</value>
+    </sys_element_mapping>
+</record_update>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category display_value="Date">1540033b0fa023007500cbdce1050ee4</category>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>date_math</internal_name>
+        <label_cache>[{"name":"{{action.date_time}}","label":"action➛Date/Time","type":"action","ref":""},{"name":"{{action.operation}}","label":"action➛Operation","type":"action","ref":""},{"name":"{{action.duration}}","label":"action➛Duration","type":"action","ref":""},{"name":"{{action.period}}","label":"action➛Period","type":"action","ref":""},{"name":"{{step[4c1d4b56-4a71-4c37-8150-607e3ed8e78f].result}}","label":"step➛Script step➛result","type":"step","ref":""}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Date Math</name>
+        <outputs/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-21 20:45:24</sys_created_on>
+        <sys_id>ce60c33b0fa023007500cbdce1050ebc</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Date Math</sys_name>
+        <sys_package display_value="CT Utils Spoke" source="x_snc_ct_utils">e30e2c78db2ca30077386583ca961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CT Utils Spoke">e30e2c78db2ca30077386583ca961990</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_ce60c33b0fa023007500cbdce1050ebc</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-21 21:08:33</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=ce60c33b0fa023007500cbdce1050ebc"/>
+    <sys_variable_value action="delete_multiple" query="document_key=ce60c33b0fa023007500cbdce1050ebc"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_type_definition</document>
+        <document_key>ce60c33b0fa023007500cbdce1050ebc</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-21 21:08:33</sys_created_on>
+        <sys_id>05b5c3fb0fa023007500cbdce1050edc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-21 21:08:33</sys_updated_on>
+        <value/>
+        <variable display_value="">cdb5c3fb0fa023007500cbdce1050ec6</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=ce60c33b0fa023007500cbdce1050ebc"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>result</field>
+        <id>ce60c33b0fa023007500cbdce1050ebc</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-21 21:08:33</sys_created_on>
+        <sys_id>81b5c3fb0fa023007500cbdce1050edc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-21 21:08:33</sys_updated_on>
+        <table>var__m_sys_hub_action_output_ce60c33b0fa023007500cbdce1050ebc</table>
+        <value>{{step[4c1d4b56-4a71-4c37-8150-607e3ed8e78f].result}}</value>
+    </sys_element_mapping>
+</record_update>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Sample flow">5b3ee4b8db2ca30077386583ca9619b7</flow>
+        <order>6</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-21 21:24:54</sys_created_on>
+        <sys_id>a47903bf0fa023007500cbdce1050e49</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CT Utils Spoke" source="x_snc_ct_utils">e30e2c78db2ca30077386583ca961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CT Utils Spoke">e30e2c78db2ca30077386583ca961990</sys_scope>
+        <sys_update_name>sys_hub_action_instance_a47903bf0fa023007500cbdce1050e49</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-21 21:33:43</sys_updated_on>
+        <ui_id>bda00678-f056-4cbd-a465-cb615b436942</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=a47903bf0fa023007500cbdce1050e49"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>a47903bf0fa023007500cbdce1050e49</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-21 21:24:54</sys_created_on>
+        <sys_id>607903bf0fa023007500cbdce1050e4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-21 21:24:54</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">1fd27c8cc3c632002841b63b12d3aeb9</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=a47903bf0fa023007500cbdce1050e49"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>a47903bf0fa023007500cbdce1050e49</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-21 21:24:54</sys_created_on>
+        <sys_id>2c7903bf0fa023007500cbdce1050e4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-21 21:24:54</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value>{{Created_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>a47903bf0fa023007500cbdce1050e49</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-21 21:24:54</sys_created_on>
+        <sys_id>687903bf0fa023007500cbdce1050e4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-21 21:24:54</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>a47903bf0fa023007500cbdce1050e49</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-09-21 21:24:54</sys_created_on>
+        <sys_id>ec7903bf0fa023007500cbdce1050e4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-09-21 21:24:54</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value>work_start={{d38eb521-caa0-420f-befb-df012a023104.result}}</value>
+    </sys_element_mapping>
+</record_update>

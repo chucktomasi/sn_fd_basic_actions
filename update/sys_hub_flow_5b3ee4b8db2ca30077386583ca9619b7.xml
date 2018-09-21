@@ -8,7 +8,7 @@
         <copied_from_name/>
         <description/>
         <internal_name>sample_flow</internal_name>
-        <label_cache>[{"name":"c40cc591-fc20-4a69-903a-1c4883758bf7.answer","label":"2➛Answer","reference_display":"Answer","type":"integer","base_type":"integer"},{"name":"7eb8c136-382a-48e7-aff3-646a2d57802e.answer","label":"2➛Answer","reference_display":"Answer","type":"integer","base_type":"integer"},{"name":"f1b83a4f-3cb9-4b4a-8fe3-8b0208128164.answer","label":"1➛Answer","reference_display":"Answer","type":"float","base_type":"float"},{"name":"c88bc878-4833-45f2-86d8-dfc709e6bd6b.answer","label":"1➛Answer","reference_display":"Answer","type":"float","base_type":"float"},{"name":"0d524afb-0da8-4816-96a7-4ee2697cc044.value","label":"3➛Value","type":"string","base_type":"string"}]</label_cache>
+        <label_cache>[{"name":"Created_1.current","label":"Trigger➛Incident Record","reference":"incident","reference_display":"Incident","type":"reference","base_type":"reference"},{"name":"bda00678-f056-4cbd-a465-cb615b436942.table_name","label":"6➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"bda00678-f056-4cbd-a465-cb615b436942.record","label":"6➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"Created_1.current.due_date","label":"Trigger➛Incident Record➛Due date","reference":"","reference_display":"Due date","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"incident","column_name":"due_date"},{"name":"d38eb521-caa0-420f-befb-df012a023104.result","label":"5➛Result","type":"glide_date_time","base_type":"glide_date_time"},{"name":"c40cc591-fc20-4a69-903a-1c4883758bf7.answer","label":"2➛Answer","reference_display":"Answer","type":"integer","base_type":"integer"},{"name":"7eb8c136-382a-48e7-aff3-646a2d57802e.answer","label":"2➛Answer","reference_display":"Answer","type":"integer","base_type":"integer"},{"name":"f1b83a4f-3cb9-4b4a-8fe3-8b0208128164.answer","label":"1➛Answer","reference_display":"Answer","type":"float","base_type":"float"},{"name":"c88bc878-4833-45f2-86d8-dfc709e6bd6b.answer","label":"1➛Answer","reference_display":"Answer","type":"float","base_type":"float"},{"name":"0d524afb-0da8-4816-96a7-4ee2697cc044.value","label":"3➛Value","reference_display":"Value","type":"string","base_type":"string"}]</label_cache>
         <latest_snapshot/>
         <master_snapshot/>
         <name>Sample flow</name>
@@ -22,14 +22,14 @@
         <sys_created_by>chuck.tomasi</sys_created_by>
         <sys_created_on>2018-09-12 02:25:00</sys_created_on>
         <sys_id>5b3ee4b8db2ca30077386583ca9619b7</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Sample flow</sys_name>
         <sys_package display_value="CT Utils Spoke" source="x_snc_ct_utils">e30e2c78db2ca30077386583ca961990</sys_package>
         <sys_policy/>
         <sys_scope display_value="CT Utils Spoke">e30e2c78db2ca30077386583ca961990</sys_scope>
         <sys_update_name>sys_hub_flow_5b3ee4b8db2ca30077386583ca9619b7</sys_update_name>
         <sys_updated_by>chuck.tomasi</sys_updated_by>
-        <sys_updated_on>2018-09-21 18:40:49</sys_updated_on>
+        <sys_updated_on>2018-09-21 21:33:42</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=5b3ee4b8db2ca30077386583ca9619b7"/>
